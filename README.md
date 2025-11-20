@@ -1,4 +1,4 @@
-🍕# The-Great-Pizza-Analytics-Challenge
+# 🍕 The-Great-Pizza-Analytics-Challenge
 # IDC Pizza — Mini Project
 
 A compact SQL + Excel mini-project analyzing pizza sales (IDC_Pizza dataset).
