@@ -38,11 +38,11 @@ The project concludes with an Excel dashboard and actionable recommendations.
 **Phase 3 — Sales Performance**: Totals, averages, per-order values, category aggregation, never-ordered items, size price comparisons.
 
 ## 📊 Excel Dashboard
-* Import all tables into separate sheets and convert each to a Table (`Ctrl+T`)
+* Import all tables into separate sheets and convert each to a Table 
 * Add tables to Data Model (Relationships):
-  `orders.order_id → order_details.order_id`
-  `pizzas.pizza_id → order_details.pizza_id`
-  `pizza_types.pizza_type_id → pizzas.pizza_type_id`
+* `orders.order_id → order_details.order_id`
+* `pizzas.pizza_id → order_details.pizza_id`
+* `pizza_types.pizza_type_id → pizzas.pizza_type_id`
 
 **Dashboard Suggestions**
 * KPI Cards: Total Pizzas Sold, Total Orders, Total Revenue, Avg Pizza Price, Top Category
